@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "ana",
+        "image": "../images/ana.jpg",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "tyrell",
+        "image": "../images/tyrell.jpg",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "deckard",
+        "image": "../images/deckard.jpg",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "pris",
+        "image": "../images/pris.jpg",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "joi",
+        "image": "../images/joi.jpg",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "gaff",
+        "image": "../images/gaff.jpg",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "k",
+        "image": "../images/k.jpg",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "luv",
+        "image": "../images/luv.png",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "mariette",
+        "image": "../images/mariette.jpg",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "niander",
+        "image": "../images/niander.jpg",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "rachael",
+        "image": "../images/rachael.jpg",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "roy",
+        "image": "../images/roy.jpg",
+        "count": 0
+    }
+]

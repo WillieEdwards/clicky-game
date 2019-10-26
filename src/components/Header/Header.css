@@ -1,0 +1,15 @@
+.header {
+  font-family: 'Fugaz One', cursive;
+  background-color: rgba(0, 0, 0, 0.85);
+  width: 100%;
+  font-size: 4rem;
+  color:  #eb2322;
+  padding-top: 4rem;
+}
+
+.header > .jumbotron {
+  background-color: transparent;
+  color: #eeeeee;
+  font-size: 2rem;
+  border-radius: 0;
+}
