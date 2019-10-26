@@ -5,8 +5,12 @@
   margin: 1rem;
   position: relative;
   width: 250px;
-  box-shadow: 0 3px 6px rgb(170, 170, 170), 0 3px 6px rgb(170, 170, 170);
+  
   text-align: left;
+}
+
+.card:hover {
+  box-shadow: 0 5px 10px rgb(225, 75, 200), 0 5px 10px rgb(225, 75, 200);
 }
   
 .card > .img-container {

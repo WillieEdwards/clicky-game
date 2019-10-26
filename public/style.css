@@ -1,4 +1,5 @@
 body {
     text-transform: uppercase;
-    background: linear-gradient(to right, #ff0010 40%, #00acac 60%);
+    /* background-color: #141518; */
+    background: linear-gradient(to bottom, #C345B1 5%, #17111D 95%);
 }

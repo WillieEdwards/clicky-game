@@ -1,15 +1,32 @@
 .header {
-  font-family: 'Fugaz One', cursive;
-  background-color: rgba(0, 0, 0, 0.85);
+  background-image: url("/images/background2.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 100% 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   width: 100%;
-  font-size: 4rem;
-  color:  #eb2322;
-  padding-top: 4rem;
 }
 
-.header > .jumbotron {
-  background-color: transparent;
-  color: #eeeeee;
+h1,
+h2 {
+  font-family: 'Fugaz One', cursive;
+  color: #ffffff;
+  opacity: 0.7;
+}
+
+h1 {
+  font-size: 6rem;
+  padding: 8rem 0;
+}
+
+h2 {
   font-size: 2rem;
-  border-radius: 0;
+}
+
+.scores {
+  padding-bottom: 8rem;
 }
