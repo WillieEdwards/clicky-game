@@ -6,21 +6,15 @@
         "count": 0
     },
     {
-        "id": 2,
-        "name": "mr_cotton",
-        "image": "../images/mr_cotton.jpg",
-        "count": 0
-    },
-    {
         "id": 3,
         "name": "deckard",
         "image": "../images/deckard.png",
         "count": 0
     },
     {
-        "id": 4,
-        "name": "joshi",
-        "image": "../images/joshi.jpg",
+        "id": 6,
+        "name": "freysa",
+        "image": "../images/freysa.jpg",
         "count": 0
     },
     {
@@ -30,9 +24,9 @@
         "count": 0
     },
     {
-        "id": 6,
-        "name": "freysa",
-        "image": "../images/freysa.jpg",
+        "id": 4,
+        "name": "joshi",
+        "image": "../images/joshi.jpg",
         "count": 0
     },
     {
@@ -54,9 +48,9 @@
         "count": 0
     },
     {
-        "id": 10,
-        "name": "niander",
-        "image": "../images/niander.jpg",
+        "id": 2,
+        "name": "mr_cotton",
+        "image": "../images/mr_cotton.jpg",
         "count": 0
     },
     {
@@ -69,6 +63,12 @@
         "id": 12,
         "name": "sapper",
         "image": "../images/sapper.png",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "wallace",
+        "image": "../images/wallace.jpg",
         "count": 0
     }
 ]

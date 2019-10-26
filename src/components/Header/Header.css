@@ -11,22 +11,11 @@
   width: 100%;
 }
 
-h1,
-h2 {
-  font-family: 'Fugaz One', cursive;
-  color: #ffffff;
-  opacity: 0.7;
-}
-
 h1 {
-  font-size: 6rem;
-  padding: 8rem 0;
-}
-
-h2 {
-  font-size: 2rem;
-}
-
-.scores {
-  padding-bottom: 8rem;
+  font-family: 'Fugaz One', cursive;
+  font-size: 5rem;
+  color: #F20209;
+  opacity: 0.7;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
 }
